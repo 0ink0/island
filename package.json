@@ -1,0 +1,22 @@
+{
+  "name": "acnh-card",
+  "version": "0.0.1",
+  "description": "My ACNH card.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0ink0/acnh-card.git"
+  },
+  "keywords": [
+    "acnh"
+  ],
+  "author": "Yi (@telgniw)",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/0ink0/acnh-card/issues"
+  },
+  "homepage": "https://github.com/0ink0/acnh-card"
+}
