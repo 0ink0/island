@@ -4,6 +4,7 @@
   "description": "My ACNH card.",
   "main": "index.js",
   "scripts": {
+    "pug": "pug views -o res",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -18,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/0ink0/acnh-card/issues"
   },
-  "homepage": "https://github.com/0ink0/acnh-card"
+  "homepage": "https://github.com/0ink0/acnh-card",
+  "dependencies": {
+    "pug": "^3.0.2"
+  },
+  "devDependencies": {
+    "pug-cli": "^1.0.0-alpha6"
+  }
 }
