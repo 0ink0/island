@@ -1,8 +1,10 @@
-include data/names
 doctype html
 html
   head
     title='ACNH Card'
+    meta(
+      charset='utf-8'
+    )
     link(
       rel='stylesheet'
       type='text/css'
@@ -17,14 +19,15 @@ html
       src='https://cdn.jsdelivr.net/npm/semantic-ui@2.4.2/dist/semantic.min.js'
     )
   body
+    include:json(varname='island') data/island.json
     div.ui.container
       div.ui.menu
         div.header.item Island
       div.ui.five.cards
-        each name in names
+        each animal in global.$vars.island.villagers
           div.card
             div.image
-              div.ui.tiny.image
-                img(src=`img/icons/${name.replace(' ', '_')}_NH_Villager_Icon.png`)
+              div.ui.tiny.spaced.image
+                img(src=`${animal.images.icon}`)
             div.extra.content
-              div.header #{name}
+              div.header #{animal.name}

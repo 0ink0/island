@@ -1,0 +1,346 @@
+{
+  "villagers": [
+    {
+      "name": "儒林",
+      "images": {
+        "icon": "img/icons/Genji_NH_Villager_Icon.png"
+      },
+      "house": 1,
+      "species": "兔子",
+      "tags": [
+        "Robert"
+      ]
+    },
+    {
+      "name": "娣雅",
+      "images": {
+        "icon": "img/icons/Deirdre_NH_Villager_Icon.png"
+      },
+      "house": 2,
+      "species": "鹿"
+    },
+    {
+      "name": "查克",
+      "images": {
+        "icon": "img/icons/Erik_NH_Villager_Icon.png"
+      },
+      "house": 3,
+      "species": "鹿",
+      "tags": [
+        "鹿鹿"
+      ]
+    },
+    {
+      "name": "咬咬",
+      "images": {
+        "icon": "img/icons/Nibbles_NH_Villager_Icon.png"
+      },
+      "house": 4,
+      "species": "松鼠"
+    },
+    {
+      "name": "香草",
+      "images": {
+        "icon": "img/icons/Daisy_NH_Villager_Icon.png"
+      },
+      "house": 5,
+      "species": "狗"
+    },
+    {
+      "name": "羅奇",
+      "images": {
+        "icon": "img/icons/Eugene_NH_Villager_Icon.png"
+      },
+      "house": 6,
+      "species": "無尾熊"
+    },
+    {
+      "name": "章丸丸",
+      "images": {
+        "icon": "img/icons/Zucker_NH_Villager_Icon.png"
+      },
+      "house":7,
+      "species": "章魚"
+    },
+    {
+      "name": "小雅",
+      "images": {
+        "icon": "img/icons/Annalisa_NH_Villager_Icon.png"
+      },
+      "house": 8,
+      "species": "食蟻獸"
+    },
+    {
+      "name": "雷妮",
+      "images": {
+        "icon": "img/icons/Lily_NH_Villager_Icon.png"
+      },
+      "house": 9,
+      "species": "青蛙",
+      "tags": [
+        "每日蛙蛙"
+      ]
+    },
+    {
+      "name": "羅宋",
+      "images": {
+        "icon": "img/icons/T-Bone_NH_Villager_Icon.png"
+      },
+      "house": 10,
+      "species": "牛"
+    },
+    {
+      "name": "小影",
+      "images": {
+        "icon": "img/icons/Blaire_NH_Villager_Icon.png"
+      },
+      "house": 8,
+      "species": "松鼠",
+      "tags": [
+        "美女松鼠"
+      ]
+    },
+    {
+      "name": "然姐",
+      "images": {
+        "icon": "img/icons/Tammy_NH_Villager_Icon.png"
+      },
+      "house": 4,
+      "species": "小熊"
+    },
+    {
+      "name": "阿笨",
+      "images": {
+        "icon": "img/icons/Walker_NH_Villager_Icon.png"
+      },
+      "house": 6,
+      "species": "狗"
+    },
+    {
+      "name": "氈氈",
+      "images": {
+        "icon": "img/icons/Stella_NH_Villager_Icon.png"
+      },
+      "house": 3,
+      "species": "綿羊"
+    },
+    {
+      "name": "朱祿",
+      "images": {
+        "icon": "img/icons/Cranston_NH_Villager_Icon.png"
+      },
+      "house": 3,
+      "species": "孔雀"
+    },
+    {
+      "name": "冰莎",
+      "images": {
+        "icon": "img/icons/Sprinkle_NH_Villager_Icon.png"
+      },
+      "house": 2,
+      "species": "企鵝"
+    },
+    {
+      "name": "墨墨",
+      "images": {
+        "icon": "img/icons/Nan_NH_Villager_Icon.png"
+      },
+      "house": 10,
+      "species": "山羊"
+    },
+    {
+      "name": "莉莉安",
+      "images": {
+        "icon": "img/icons/Bunnie_NH_Villager_Icon.png"
+      },
+      "house": 7,
+      "species": "兔子",
+      "tags": [
+        "可愛兔子"
+      ]
+    },
+    {
+      "name": "大姐頭",
+      "images": {
+        "icon": "img/icons/Tiffany_NH_Villager_Icon.png"
+      },
+      "house": 10,
+      "species": "兔子",
+      "tags": [
+        "美女兔子"
+      ]
+    },
+    {
+      "name": "梅麗諾",
+      "images": {
+        "icon": "img/icons/Willow_NH_Villager_Icon.png"
+      },
+      "house": 6,
+      "species": "綿羊"
+    },
+    {
+      "name": "克莉琪",
+      "images": {
+        "icon": "img/icons/Chrissy_NH_Villager_Icon.png"
+      },
+      "house": 8,
+      "species": "兔子",
+      "tags": [
+        "Chrissy"
+      ]
+    },
+    {
+      "name": "火鳥",
+      "images": {
+        "icon": "img/icons/Phoebe_NH_Villager_Icon.png"
+      },
+      "house": 2,
+      "species": "孔雀"
+    },
+    {
+      "name": "泡芙",
+      "images": {
+        "icon": "img/icons/Ellie_NH_Villager_Icon.png"
+      },
+      "house": 4,
+      "species": "大象"
+    },
+    {
+      "name": "余板",
+      "images": {
+        "icon": "img/icons/Jacob_NH_Villager_Icon.png"
+      },
+      "house": 6,
+      "species": "鳥"
+    },
+    {
+      "name": "番茄醬",
+      "images": {
+        "icon": "img/icons/Ketchup_NH_Villager_Icon.png"
+      },
+      "house": 4,
+      "species": "鴨子"
+    },
+    {
+      "name": "花壽司",
+      "images": {
+        "icon": "img/icons/Iggly_NH_Villager_Icon.png"
+      },
+      "house": 3,
+      "species": "企鵝"
+    },
+    {
+      "name": "江適",
+      "images": {
+        "icon": "img/icons/Frobert_NH_Villager_Icon.png"
+      },
+      "house": 4,
+      "species": "青蛙"
+    },
+    {
+      "name": "音音",
+      "images": {
+        "icon": "img/icons/Fauna_NH_Villager_Icon.png"
+      },
+      "house": 6,
+      "species": "鹿"
+    },
+    {
+      "name": "山姆",
+      "images": {
+        "icon": "img/icons/Wart_Jr._NH_Villager_Icon.png"
+      },
+      "house": 5,
+      "species": "青蛙",
+      "tags": [
+        "山山"
+      ]
+    },
+    {
+      "name": "茉莉",
+      "images": {
+        "icon": "img/icons/Tia_NH_Villager_Icon.png"
+      },
+      "house": 3,
+      "species": "大象"
+    },
+    {
+      "name": "芭芭拉",
+      "images": {
+        "icon": "img/icons/Pashmina_NH_Villager_Icon.png"
+      },
+      "house": 4,
+      "species": "山羊"
+    },
+    {
+      "name": "莎莎",
+      "images": {
+        "icon": "img/icons/Merry_NH_Villager_Icon.png"
+      },
+      "house": 2,
+      "species": "貓",
+      "tags": [
+        "喵嗯"
+      ]
+    },
+    {
+      "name": "巨巨",
+      "images": {
+        "icon": "img/icons/Dizzy_NH_Villager_Icon.png"
+      },
+      "house": 6,
+      "species": "大象",
+      "tags": [
+        "象象"
+      ]
+    },
+    {
+      "name": "森森",
+      "images": {
+        "icon": "img/icons/Zell_NH_Villager_Icon.png"
+      },
+      "house": 3,
+      "species": "鹿"
+    },
+    {
+      "name": "法蘭琪",
+      "images": {
+        "icon": "img/icons/Francine_NH_Villager_Icon.png"
+      },
+      "house": 6,
+      "species": "兔子"
+    },
+    {
+      "name": "皮蛋",
+      "images": {
+        "icon": "img/icons/Bill_NH_Villager_Icon.png"
+      },
+      "house": 5,
+      "species": "鴨子"
+    },
+    {
+      "name": "大吉",
+      "images": {
+        "icon": "img/icons/Lucky_NH_Villager_Icon.png"
+      },
+      "house": 10,
+      "species": "狗"
+    },
+    {
+      "name": "阿司",
+      "images": {
+        "icon": "img/icons/Timbra_NH_Villager_Icon.png"
+      },
+      "house": 2,
+      "species": "綿羊"
+    },
+    {
+      "name": "阿龍",
+      "images": {
+        "icon": "img/icons/Drago_NH_Villager_Icon.png"
+      },
+      "house": 10,
+      "species": "鱷魚"
+    }
+  ]
+}

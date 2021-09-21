@@ -4,7 +4,7 @@
   "description": "My ACNH card.",
   "main": "index.js",
   "scripts": {
-    "pug": "pug views -o res",
+    "pug": "pug -O options.js -o res views",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
