@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/0ink0/acnh-card.git"
+    "url": "git+https://github.com/0ink0/island.git"
   },
   "keywords": [
     "acnh"
@@ -17,9 +17,9 @@
   "author": "Yi (@telgniw)",
   "license": "Unlicense",
   "bugs": {
-    "url": "https://github.com/0ink0/acnh-card/issues"
+    "url": "https://github.com/0ink0/island/issues"
   },
-  "homepage": "https://github.com/0ink0/acnh-card",
+  "homepage": "https://0ink0.github.io/island/",
   "dependencies": {
     "pug": "^3.0.2"
   },
