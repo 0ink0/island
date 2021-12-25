@@ -341,6 +341,46 @@
       },
       "house": 10,
       "species": "鱷魚"
+    },
+    {
+      "name": "李徹",
+      "images": {
+        "icon": "img/icons/Admiral_NH_Villager_Icon.png"
+      },
+      "house": 3,
+      "species": "鳥"
+    },
+    {
+      "name": "湯姆",
+      "images": {
+        "icon": "img/icons/Lopez_NH_Villager_Icon.png"
+      },
+      "house": 10,
+      "species": "鹿"
+    },
+    {
+      "name": "達滿",
+      "images": {
+        "icon": "img/icons/Hopper_NH_Villager_Icon.png"
+      },
+      "house": 2,
+      "species": "企鵝"
+    },
+    {
+      "name": "亞莎",
+      "images": {
+        "icon": "img/icons/Mathilda_NH_Villager_Icon.png"
+      },
+      "house": 10,
+      "species": "袋鼠"
+    },
+    {
+      "name": "愛哭鬼",
+      "images": {
+        "icon": "img/icons/Pate_NH_Villager_Icon.png"
+      },
+      "house": 2,
+      "species": "鴨子"
     }
   ]
 }
