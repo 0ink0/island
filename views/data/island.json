@@ -381,6 +381,38 @@
       },
       "house": 2,
       "species": "鴨子"
+    },
+    {
+      "name": "竹輪",
+      "images": {
+        "icon": "img/icons/Wade_NH_Villager_Icon.png"
+      },
+      "house": 3,
+      "species": "企鵝"
+    },
+    {
+      "name": "戈武紀",
+      "images": {
+        "icon": "img/icons/Kabuki_NH_Villager_Icon.png"
+      },
+      "house": 4,
+      "species": "貓"
+    },
+    {
+      "name": "朱黎",
+      "images": {
+        "icon": "img/icons/Julian_NH_Villager_Icon.png"
+      },
+      "house": 4,
+      "species": "馬"
+    },
+    {
+      "name": "桑托斯",
+      "images": {
+        "icon": "img/icons/O'Hare_NH_Villager_Icon.png"
+      },
+      "house": 5,
+      "species": "兔子"
     }
   ]
 }
