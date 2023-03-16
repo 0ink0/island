@@ -19,15 +19,24 @@ html
       src='https://cdn.jsdelivr.net/npm/semantic-ui@2.4.2/dist/semantic.min.js'
     )
   body
-    include:json(varname='island') data/island.json
+    include:json(varname='$island') data/island.json
+    - $island.species = metadata($island.villagers)
     div.ui.container
       div.ui.menu
-        div.header.item Island
-      div.ui.five.cards
-        each animal in global.$vars.island.villagers
-          div.card
+        div.header.item='島'
+        div.ui.pointing.dropdown.item
+          i.filter.icon
+          div.menu
+            div.item(data-value='V') 居民
+            each v, k in Object.fromEntries($island.species)
+              div.item(data-value=`${v}`) #{k}
+      div.ui.five.doubling.cards
+        each v in $island.villagers
+          div.card(class=`${v.current ? 'teal ' : ''}${v.speciesClass}`)
             div.image
               div.ui.tiny.spaced.image
-                img(src=`${animal.images.icon}`)
+                img(src=`${v.images.icon}`)
             div.extra.content
-              div.header #{animal.name}
+              div.header #{v.name}
+    script
+      include scripts/index.js
