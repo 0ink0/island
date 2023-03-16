@@ -413,6 +413,38 @@
       },
       "house": 5,
       "species": "兔子"
+    },
+    {
+      "name": "瑞奇",
+      "images": {
+        "icon": "img/icons/Filbert_NH_Villager_Icon.png"
+      },
+      "house": 2,
+      "species": "松鼠"
+    },
+    {
+      "name": "小睫",
+      "images": {
+        "icon": "img/icons/Diva_NH_Villager_Icon.png"
+      },
+      "house": 5,
+      "species": "青蛙"
+    },
+    {
+      "name": "章立娜",
+      "images": {
+        "icon": "img/icons/Marina_NH_Villager_Icon.png"
+      },
+      "house": 4,
+      "species": "章魚"
+    },
+    {
+      "name": "肯肯",
+      "images": {
+        "icon": "img/icons/Goose_NH_Villager_Icon.png"
+      },
+      "house": 10,
+      "species": "雞"
     }
   ]
 }
